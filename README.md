@@ -1,6 +1,3 @@
-# Software
-Software for coding with CSW
-
-Links to Software:
-  https://code.visualstudio.com/
-  http://www.sublimetext.com/
+Use this Community Branch for all of your code that you want to upload.
+Follow the directories correclty and have a good time.
+Thank you!
