@@ -9,3 +9,7 @@ Thank you!
 Links to Software:
   https://code.visualstudio.com/
   http://www.sublimetext.com/
+
+Socials:
+  Twitter - https://twitter.com/codeswanweb
+  Discord (Using Disboard) - https://disboard.org/server/1012211617523568751
