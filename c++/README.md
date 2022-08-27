@@ -1,2 +1,2 @@
-You can put any C++ files in here under Code/html/yourpickedfoldername
+You can put any C++ files in here under Code/c++/yourpickedfoldername
 Thank you!
